@@ -3,7 +3,7 @@
 Backend and systems developer based in Hyderabad, India. I build with React, Spring Boot, TypeScript, Go, and Rust, and I like working close to the metal — key-value stores, container runtimes, HTTP servers built from raw sockets.
 
 - Portfolio & case studies: [raqueeb.dev](https://raqueeb.dev)
-- LinkedIn: [mohammed-abdul-raqueeb](https://www.linkedin.com/in/mohammed-abdul-raqueeb)
+- LinkedIn: [raqueeeb](https://www.linkedin.com/in/raqueeeb)
 - Contact: hello@raqueeb.dev
 
 **A few things I've built**
