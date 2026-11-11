@@ -14,3 +14,6 @@ Backend and systems developer based in Hyderabad, India. I build with React, Spr
 - [pyhttp-server](https://github.com/raqueeeb/pyhttp-server) — an HTTP/1.1 server built from raw sockets in Python
 
 More case studies and write-ups: [raqueeb.dev/projects](https://raqueeb.dev/projects)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=raqueeeb&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
